@@ -17,6 +17,5 @@ create a new branch master  submit!!
 create a new branch  agin!! 
 
 >>>>>>> featurel
-create a new branch is quick and simple
-
-lllllllllllllllllll
+create a new branch is quick and simpl
+2222222222222

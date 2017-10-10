@@ -10,5 +10,11 @@ today is good!
 he is bad boy.
 
 create a new branch!!
+<<<<<<< HEAD
 
 create a new branch master  submit!!
+=======
+create a new branch  agin!! 
+
+>>>>>>> featurel
+create a new branch is quick and simple
